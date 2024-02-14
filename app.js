@@ -10,4 +10,4 @@ function mostrarMensaje() {
 }
 
 // Llamada a la función después de 5 segundos (5000 milisegundos)
-setTimeout(mostrarMensaje, 5000);
+setTimeout(mostrarMensaje, 7000);
