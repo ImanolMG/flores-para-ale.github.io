@@ -6,7 +6,7 @@ onload = () => {
   };
 
 function mostrarMensaje() {
-    alert("Feliz dia del amor y amistad Ale :) 🧡❤");
+    alert("Feliz dia del amor y amistad Ale 🧡❤");
 }
 
 // Llamada a la función después de 5 segundos (5000 milisegundos)
